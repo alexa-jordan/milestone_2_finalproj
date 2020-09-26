@@ -1,0 +1,28 @@
+---
+title: "m_2_version2"
+author: "Alexa Jordan"
+date: "9/26/2020"
+output: html_document
+---
+
+Milestone 2: 
+
+Project 1: Amy Zhou, "Caselaw Through the Years" 
+
+For my first project, I decided to investigate a realm of academia that I am very fascinated in: the law and gender! It just so happens that Amy also had the same Expos preceptor (Sparsha Saha) that I had during my freshman year.
+
+Only a few minutes on this shinyapp, and I am extremely impressed with what I have found in her project. Amy had to do a significant amount of wrangling to have a successful project. See her testimony below: 
+
+"I downloaded the bulk data for all 50 states and began working with it. I immediately ran into some issues. First, the actual text of the cases were nested in a list within a data frame within another data frame, so I had to write a function (with the help of Alyssa). to extract this and bind it to the data. A similar issue occurred with the court names and court slugs." 
+
+This project looks extremely hard, but it makes me very excited to research my own topic very soon.
+
+Pro: 
+- 
+
+Con: 
+- My first critiqueSome of it doesn't work! I tried on several different computers. The tab that shows the "Term Usage Over Time" just doesn't work 
+
+
+
+https://github.com/alexa-jordan/milestone_2_finalproj.git
