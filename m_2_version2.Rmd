@@ -5,24 +5,68 @@ date: "9/26/2020"
 output: html_document
 ---
 
-Milestone 2: 
+Milestone 2:
 
-Project 1: Amy Zhou, "Caselaw Through the Years" 
+Project 1: Amy Zhou, "Caselaw Through the Years"
+For my first project, I decided to investigate a realm of academia that I am
+very fascinated in: the law and gender! It just so happens that Amy also had the
+same Expos preceptor (Sparsha Saha) that I had during my freshman year.
 
-For my first project, I decided to investigate a realm of academia that I am very fascinated in: the law and gender! It just so happens that Amy also had the same Expos preceptor (Sparsha Saha) that I had during my freshman year.
+Only a few minutes on this shinyapp, and I am extremely impressed with what I
+have found in her project. Amy had to do a significant amount of wrangling to
+have a successful project. See her testimony below:
 
-Only a few minutes on this shinyapp, and I am extremely impressed with what I have found in her project. Amy had to do a significant amount of wrangling to have a successful project. See her testimony below: 
-
-"I downloaded the bulk data for all 50 states and began working with it. I immediately ran into some issues. First, the actual text of the cases were nested in a list within a data frame within another data frame, so I had to write a function (with the help of Alyssa). to extract this and bind it to the data. A similar issue occurred with the court names and court slugs." 
-
-This project looks extremely hard, but it makes me very excited to research my own topic very soon.
+"I downloaded the bulk data for all 50 states and began working with it. I
+immediately ran into some issues. First, the actual text of the cases were
+nested in a list within a data frame within another data frame, so I had to
+write a function (with the help of Alyssa). to extract this and bind it to the
+data. A similar issue occurred with the court names and court slugs."
+This project looks extremely hard, but it makes me very excited to research my
+own topic very soon.
 
 Pro: 
-- 
+- The wrangling of data in this final project is immaculate. It is well
+organized and the options are impressive. The github is also neatly organized. 
+- It is very thorough and a lot of options are available for the reader, it is
+clearly a complex topic that Amy has thought a lot about.
 
 Con: 
-- My first critiqueSome of it doesn't work! I tried on several different computers. The tab that shows the "Term Usage Over Time" just doesn't work 
+- My first critique is very simple. It either has too much data for my
+computer to handle, or her tabs just do not work! I tried on several different
+computers in my house, all with the same  effect. The tab that shows the "Term
+Usage Over Time" just doesn't work, for example. It is good in concept, but it
+causes my computer to crash each time, so we need to figure out how to stop this
+from happening to other visitors to the site.
+
+- Amy chose Gender & the SUPREME court. I think this tab was not fully thought
+out for several reasons: 
+1. The sample size of women is so much smaller than the
+number of men who have argued in front of the supreme court. How do I know if
+the difference is significant, or just a product of a small sample size? 
+2. I think that this piece of analysis was way too short. No additional research was
+done to explain why women win at a higher rate. A passing comment on "theories"
+does not tell us anything about the data and what we should learn from it. Even
+if you do not put forth reasons or ONE reason that you believe is causing this,
+I think we would benefit from what others may think. In summary: WHY does this
+matter? 
+3. It looks dull! Amy needs some more pretty color in her graphs.
 
 
+
+Project #2
+Benjamin Villaw's "The Sacred and the Profane: Metropolitan Emotions"
+Pro's: - Upon opening the assignment, I already see a nice image and looks both
+clean and futuristic. The question he is trying to answer is clear: how do
+different factors affect mental helath and emotional well-being. Clearly,
+Benjamin is going to be looking for a causal effect. - His data source is CLEAR
+and highlighted on the intro/welcoming page. - Uh, Dan if you're reading this...
+I am floored. This project is phenomenal. I actually hit the jackpot! I soon
+realized why this might be the case: "Benjamin Villa Wiesner is an Architect and
+a Design Engineer from Harvard’s Graduate School of Design and the School of
+Engineering and Applied Sciences. You can reach me at
+"benjaminvilla@mde.harvard".edu and find me on GitHub." HAHA this guy is in
+graduate school for design. - He had his own "build your own regression table!"
+Con's:
+- He didn't interpret for me, so I dont know what the answer to his question is!
 
 https://github.com/alexa-jordan/milestone_2_finalproj.git
